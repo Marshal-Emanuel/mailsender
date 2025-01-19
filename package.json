@@ -1,0 +1,25 @@
+{
+  "name": "mailsender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marshal-Emanuel/mailsender.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marshal-Emanuel/mailsender/issues"
+  },
+  "homepage": "https://github.com/Marshal-Emanuel/mailsender#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "sib-api-v3-sdk": "^8.5.0"
+  },
+  "type": "module"
+}
